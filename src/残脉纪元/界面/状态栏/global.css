@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --c-bg-deep: #0a1210;
+  --c-card: #111b19;
+  --c-border: #1f2e2b;
+  --c-pulse: #2dd4bf;
+  --c-pulse-dim: #115e59;
+  --c-text: #e2f0ec;
+  --c-muted: #6b8a82;
+  --c-goodwill: #10b981;
+  --c-sanity: #6366f1;
+  --c-desire: #ec4899;
+  --c-erosion-low: #f59e0b;
+  --c-erosion-high: #ef4444;
+  --c-stamina: #22d3ee;
+  --c-load: #f97316;
+  --c-skill: #a78bfa;
+  --font-body: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif;
+}
+
+body {
+  font-family: var(--font-body);
+  background: var(--c-bg-deep);
+  color: var(--c-text);
+  line-height: 1.5;
+}

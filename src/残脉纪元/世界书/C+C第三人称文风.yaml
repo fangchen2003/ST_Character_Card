@@ -1,0 +1,56 @@
+---
+writingstyle_request:
+  style_summary:
+    reference:
+      说明: 原创——明朗积极的异域遗迹探险体裁, 兼以细腻的感官与身体描写承载日常温度
+    overall_impression: 第三人称限定视角(贴近当下场景与在场人物), 以亚热带边境遗迹探险世界为底色。节奏明快、情绪偏明亮向上, 危险时刻收沉。行文注重环境与身体的感官细写(光、温、湿、触、嗅、汗), 由日常与探险交织推进。对话自然利落, 带边境城镇的鲜活生气
+    key_characteristics:
+      - '**第三人称限定视角**: 聚焦当下场景与在场人物, 不越界全知, 他人心思只由神情举止揣度; 主角内心描写保持适度, 留余裕给主角人设填充'
+      - '**感官写实**: 细写光影、温湿度、触感、声响与气味; 亚热带湿热让汗、热、肌肤与气息成为身体与环境的常驻信号'
+      - '**明朗明快**: 危险有重量但不致郁, 整体情绪偏积极有冲劲, 善意互助热络多于倾轧'
+      - '**身体细节自然入景**: 露肤、汗意、喘息、更衣、洗沐、伤口处理等身体描写作为湿热气候与体力劳动的自然结果呈现, 朴素具体, 不刻意堆砌也不回避'
+      - '**景物承载设定**: 以遗迹残鸣、脉纹苔痕、湿林骤雨、温汤硫烟等具象物象托出世界观'
+  dimensions:
+    vocabulary:
+      richness: 中高 (自然口语为底, 探险/遗迹/纺织脉纹用语适度, 感官与体感词汇准确)
+      complexity: 中 (流畅清晰, 不过度生僻或华丽)
+      formality: 偏口语/非正式 (边境城镇日常气, 专业场合可收正式)
+      domain_specificity: 遗迹探险、织脉文明、亚热带风土、导脉术
+      emotional_valence: 偏明亮 (冲劲、热络、期待、关切为主, 危险时段转紧张凝重)
+      abstract_concrete_ratio: 偏具体 (以具象景物与身体感官承载情绪)
+      notable_word_choices: 多用温湿、光影、声响与气息相关词, 遗迹与脉纹的织造感词汇
+    sentence_structure:
+      avg_sentence_length: 中, 节奏明快
+      length_variation: 中高 (探险段短促有力, 写景写身段稍长舒缓)
+      primary_sentence_types: 陈述句为主, 对话利落, 危险时短句加速
+      notable_syntactic_patterns: 常以一个身体或环境动作收束段落, 留画面
+    tone_and_mood:
+      overall_tone: 明朗、鲜活、有冲劲
+      subjectivity_objectivity: 限定主观 (经场景感知过滤)
+      emotional_expression: 直接(对话神态)与间接(景物身体折射)结合
+      dominant_emotions: 期待、热络、冲劲、关切, 危险时紧张
+    pacing_and_flow:
+      overall_pacing: 中 (探险明快推进, 劳作与歇息时段放缓细写感官)
+      information_density: 中 (设定融入场景, 不堆砌)
+    figurative_language:
+      frequency: 中
+      dominant_techniques: 具象描摹、通感, 以物/景/体感喻情, 少用直白比喻
+      purpose_of_usage: 让湿热与残脉的世界可感, 让身体细节自然成立
+    point_of_view:
+      person: 第三人称
+      perspective_scope: 限定于当下场景 (可贴近主角或聚焦在场人物)
+      focalization: 内聚焦(场景感知)为主
+      narrative_distance: 适中
+    dialogue_style:
+      naturalism_level: 高 (贴合边境城镇口语)
+      directness: 利落, 有潜台词
+      dialogue_tags: 简洁, 常以动作神态代提示语
+      inclusion_of_action: 频繁穿插擦汗、饮水、松领、添柴、查脉等细动作
+    sensory_detail:
+      overall_frequency: 高 (核心组成)
+      dominant_senses: 视觉、触觉(温湿/汗/肌)、嗅觉(气息/气味)、听觉(残鸣/雨)
+      vividness: 具体不笼统, 让读者可感同身受
+      function_of_details: 营造湿热与残脉的世界质感, 承载露肤汗意气息等身体细节, 推动氛围与心绪
+    specific_quirks:
+      rhetorical_preferences: 以身体与环境感官放大体验, 善用骤雨、残鸣、温汤、汗光等反复意象
+      other_observations: 核心在明朗探险的冲劲与湿热日常体温的并置, 身体描写朴素具体, 服务世界而非取代世界

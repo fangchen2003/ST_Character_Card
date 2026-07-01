@@ -1,0 +1,135 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "主角": {
+      "default": {},
+      "type": "object",
+      "properties": {
+        "体力": {
+          "default": 100,
+          "type": "number"
+        },
+        "脉能负荷": {
+          "default": 0,
+          "type": "number"
+        },
+        "资金": {
+          "default": 500,
+          "type": "number"
+        },
+        "理智值": {
+          "default": 100,
+          "type": "number"
+        },
+        "情欲值": {
+          "default": 0,
+          "type": "number"
+        },
+        "导脉技巧": {
+          "default": 0,
+          "type": "number"
+        },
+        "物品栏": {
+          "default": {},
+          "type": "object",
+          "propertyNames": {
+            "type": "string"
+          },
+          "additionalProperties": {
+            "type": "object",
+            "properties": {
+              "描述": {
+                "type": "string"
+              },
+              "数量": {
+                "default": 1,
+                "type": "number"
+              }
+            },
+            "required": [
+              "描述"
+            ]
+          }
+        }
+      }
+    },
+    "莉赛尔": {
+      "$ref": "#/$defs/__schema0"
+    },
+    "迦叶": {
+      "$ref": "#/$defs/__schema0"
+    },
+    "希尔薇": {
+      "$ref": "#/$defs/__schema0"
+    }
+  },
+  "$defs": {
+    "__schema0": {
+      "default": {},
+      "type": "object",
+      "properties": {
+        "好感度": {
+          "default": 0,
+          "type": "number"
+        },
+        "对主角态度": {
+          "default": "初见陌生，保持礼貌距离",
+          "type": "string"
+        },
+        "侵蚀度": {
+          "default": 0,
+          "type": "number"
+        },
+        "身体状况": {
+          "default": "正常",
+          "type": "string",
+          "enum": [
+            "正常",
+            "脉毒微积",
+            "深度侵蚀",
+            "雌堕发情"
+          ]
+        },
+        "气味浓度": {
+          "default": "清新",
+          "type": "string",
+          "enum": [
+            "清新",
+            "微汗",
+            "浓郁体香",
+            "甜腻催情"
+          ]
+        },
+        "理智值": {
+          "default": 100,
+          "type": "number"
+        },
+        "情欲值": {
+          "default": 0,
+          "type": "number"
+        },
+        "当前着装": {
+          "default": "日常服饰",
+          "type": "string"
+        },
+        "身体部位描写": {
+          "default": "肌肤白净，状态正常。",
+          "type": "string"
+        },
+        "腿部敏感度": {
+          "default": 0,
+          "type": "number"
+        },
+        "肚脐敏感度": {
+          "default": 0,
+          "type": "number"
+        },
+        "腋下敏感度": {
+          "default": 0,
+          "type": "number"
+        }
+      }
+    }
+  }
+}
